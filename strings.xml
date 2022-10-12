@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Tugas_F55121027</string>
+    <string name="lenght">Panjang!</string>
+    <string name="wide">Lebar!</string>
+    <string name="height">Tinggi!</string>
+    <string name="count">Hitung</string>
+    <string name="results">Hasil</string>
+    <string name="calculate">Hitung</string>
+</resources>
